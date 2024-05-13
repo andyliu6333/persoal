@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Hi!
+
+My name is Andy Liu. I teach math and statistics courses for almost 10 years.
+The math courses I teach including topics: single variable derivative and calculus, mltivariate variable derivative and calculus, linear algebra, complex variables, linear optimization, non-linear optimization and combinatorics.
+[My Resume](Andy.pdf)

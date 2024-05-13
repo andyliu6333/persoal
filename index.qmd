@@ -1,0 +1,24 @@
+---
+title: "Chang Liu Website"
+---
+
+Hi I am Andy Liu.
+
+I love math and statistics. 👋
+
+## 📊 About Me
+
+![Chang Liu](pic.jpg){width=150px}
+![Chang Liu](pic1.jpg){width=150px}
+![Chang Liu](pic2.jpg){width=150px}
+
+I teach math and statistics courses for almost 10 years.
+The math courses I teach including topics: single variable derivative and calculus, multivariate variable derivative and calculus, linear algebra, complex variables, linear optimization, non-linear optimization and combinatorics.
+
+
+## 🛠 Technology 
+- **Languages:** Python, SAS, R, SQL
+- **Tools:** Git/GitHub, Overleaf, Latex,Rmarkdown
+
+
+## [My CV](Andy.pdf)
