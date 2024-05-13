@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi!\nMy name is Andy Liu. I teach math and statistics courses for almost 10 years. The math courses I teach including topics: single variable derivative and calculus, mltivariate variable derivative and calculus, linear algebra, complex variables, linear optimization, non-linear optimization and combinatorics. My Resume"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chang Liu Website",
+    "section": "",
+    "text": "Hi I am Andy Liu.\nI love math and statistics. 👋"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can contact me at:\nEmail : Beijingtoronto123@gmail.com\nLinkedIn : https://www.linkedin.com"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Chang Liu Website",
+    "section": "📊 About Me",
+    "text": "📊 About Me\n  \nI teach math and statistics courses for almost 10 years. The math courses I teach including topics: single variable derivative and calculus, multivariate variable derivative and calculus, linear algebra, complex variables, linear optimization, non-linear optimization and combinatorics."
+  },
+  {
+    "objectID": "index.html#technology",
+    "href": "index.html#technology",
+    "title": "Chang Liu Website",
+    "section": "🛠 Technology",
+    "text": "🛠 Technology\n\nLanguages: Python, SAS, R, SQL\nTools: Git/GitHub, Overleaf, Latex,Rmarkdown"
+  },
+  {
+    "objectID": "index.html#my-cv",
+    "href": "index.html#my-cv",
+    "title": "Chang Liu Website",
+    "section": "My CV",
+    "text": "My CV"
+  }
+]
